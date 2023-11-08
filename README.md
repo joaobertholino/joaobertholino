@@ -1,7 +1,5 @@
 <h1>Hey, I´m João Bertholino!</h1>
 
-![](https://komarev.com/ghpvc/?username=gh0stb0yy&color=blueviolet&style=flat&label=Visualizações)
-
 ## About me 🎯
 
 💻 Estudante de desenvolvimento web a cerca de 6 meses. <br>
