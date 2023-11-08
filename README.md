@@ -23,4 +23,4 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gh0stb0yy&theme=darcula&border_radius=10)](https://git.io/streak-stats)
+![gh0stb0yy's Stats](https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&count_private=true)
