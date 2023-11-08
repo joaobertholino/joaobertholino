@@ -1,12 +1,12 @@
-<h1>Olá, eu sou o João Bertholino!</h1>
+<h1>Hey, I´m João Bertholino!</h1>
 
 ![](https://komarev.com/ghpvc/?username=gh0stb0yy&color=blueviolet&style=flat&label=Visualizações)
 
 ## About me 🎯
 
-💻 Estudante de desenvolvimento web a cerca de 6 meses <br>
-🧠 Sempre estudando novas tecnologias <br>
-💘 Apaixonado pela área de desenvolvimento <br>
+💻 Estudante de desenvolvimento web a cerca de 6 meses. <br>
+🧠 Sempre estudando novas tecnologias. <br>
+💘 Apaixonado pela área de desenvolvimento. <br>
 
 ## Skils 🚀
 
@@ -23,5 +23,5 @@
 
 <br>
 
-![gh0stb0yy's Stats](https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&count_private=true&layout=compact)
+![gh0stb0yy's Stats](https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![gh0stb0yy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&layout=compact)
