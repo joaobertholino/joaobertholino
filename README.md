@@ -26,8 +26,8 @@
 
 ## Me encontre 🌎
 
-E-mail: [joaobertholino964@gmail.com](mailto:joaobertholino964@gmail.com)
-WhatsApp: +55 11 99288-6970
+<!-- [![E-mail : João Bertholino](joaobertholino964@gmail.com) -->
+[![WhatsApp : João Bertholino](wa.me/+5511992886970)
 
 <br>
 
