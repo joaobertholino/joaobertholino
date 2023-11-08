@@ -24,4 +24,4 @@
 <br>
 
 ![gh0stb0yy's Stats](https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![gh0stb0yy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&height=300px)
+![gh0stb0yy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&layout=compact)
