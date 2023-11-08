@@ -1,16 +1,22 @@
-### Hi there 👋
+# [João Bertholino]
 
-<!--
-**gh0stb0yy/gh0stb0yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Introdução**
 
-Here are some ideas to get you started:
+Olá! Meu nome é [seu nome] e sou um(a) [seu cargo] com [sua localização]. Sou apaixonado(a) por [seus interesses].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Habilidades**
+
+* Linguagem de programação: [listar habilidades]
+* Ferramentas: [listar ferramentas]
+* Metodologias: [listar metodologias]
+
+**Projetos**
+
+* [Link para repositório] - [Resumo do projeto]
+* [Link para repositório] - [Resumo do projeto]
+
+**Contato**
+
+* E-mail: [seu e-mail]
+* Site: [seu site]
+* LinkedIn: [seu perfil do LinkedIn]
