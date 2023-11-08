@@ -3,7 +3,7 @@
 ## About me 🎯
 
 💻 Estudante de desenvolvimento web a cerca de 6 meses. <br>
-🧠 Sempre estudando novas tecnologias. <br>
+🧠 Sempre interessado em conhecer novas tecnologias. <br>
 💘 Apaixonado pela área de desenvolvimento. <br>
 
 ## Skils 🚀
