@@ -8,19 +8,29 @@
 
 ## Skils 🚀
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 ## Tools 🔧
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)
+![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
+![Google Bard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Bard&color=886FBF&logo=Google+Bard&logoColor=FFFFFF&label=)
+![Google Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Fonts&color=4285F4&logo=Google+Fonts&logoColor=FFFFFF&label=)
+![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
+![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
+![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
+![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
+![Windows Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+Terminal&color=4D4D4D&logo=Windows+Terminal&logoColor=FFFFFF&label=)
+![MDN Web Docs](https://img.shields.io/static/v1?style=for-the-badge&message=MDN+Web+Docs&color=000000&logo=MDN+Web+Docs&logoColor=FFFFFF&label=)
 
 <br>
 
