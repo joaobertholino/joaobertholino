@@ -22,8 +22,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
 
-
 <br>
 
-![gh0stb0yy's Stats](https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![gh0stb0yy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stb0yy&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+<div style="width: 100%;height: 100%;margin: 0;padding:0">
+  <img src="https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=dracula" style="width: 49%; height: 200px">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gh0stb0yy&theme=dracula" style="width: 49%; height: 205px">
+</div>
