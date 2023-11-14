@@ -25,7 +25,7 @@
 ![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
 ![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)
 ![MDN Web Docs](https://img.shields.io/static/v1?style=for-the-badge&message=MDN+Web+Docs&color=000000&logo=MDN+Web+Docs&logoColor=FFFFFF&label=)
-![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
+![ChatGPT](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 ![Google Bard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Bard&color=886FBF&logo=Google+Bard&logoColor=FFFFFF&label=)
 ![Google Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Fonts&color=4285F4&logo=Google+Fonts&logoColor=FFFFFF&label=)
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
