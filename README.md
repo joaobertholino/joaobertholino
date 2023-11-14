@@ -1,12 +1,12 @@
 <h1>Hey, I´m João Bertholino!</h1>
 
-## About me 🎯
+## About Me 🎯
 
 💻 Estudante de desenvolvimento web a cerca de 6 meses. <br>
 🧠 Sempre interessado em conhecer novas tecnologias. <br>
 💘 Apaixonado pela área de desenvolvimento. <br>
 
-## Skils 🚀
+## Technical Skills 🚀
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
