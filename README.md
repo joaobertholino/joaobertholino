@@ -30,7 +30,7 @@
 <br>
 
 <div style="width: 100%;height: 100%;margin: 0;padding:0">
-  <img src="https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=react" style="width: 49%; height: 200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=dracula" style="width: 49%; height: 200px">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gh0stb0yy&theme=react" style="width: 49%; height: 205px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gh0stb0yy&theme=dracula" style="width: 49%; height: 205px">
 </div>
