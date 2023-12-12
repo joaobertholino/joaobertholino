@@ -29,7 +29,6 @@
 <br>
 
 <div style="width: 100%;height: 100%;margin: 0;padding:0">
-  <img src="https://github-readme-stats.vercel.app/api?username=gh0stb0yy&theme=dracula" style="width: 49%; height: 200px">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gh0stb0yy&theme=dracula" style="width: 49%; height: 205px">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobertholino&show_icons=true&count_private=true&ring_color=E0004D&title_color=E0004D&icon_color=E0004D&rank-circle_color=E0004D&text_color=ffffff&bg_color=000000"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobertholino&layout=compact&title_color=E0004D&text_color=ffffff&bg_color=000000" />
 </div>
