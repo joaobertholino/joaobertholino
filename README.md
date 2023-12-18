@@ -28,5 +28,5 @@
 
 ## Stats 📈
 
-![joaobertholino's Stats](https://github-readme-stats.vercel.app/api?username=joaobertholino&theme=outrun&show_icons=true&hide_border=false&count_private=true)
-![joaobertholino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaobertholino&theme=outrun&hide_border=false)
+![joaobertholino's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobertholino&show_icons=true&theme=transparent)
+![joaobertholino's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=joaobertholino&theme=transparent)
