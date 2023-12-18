@@ -28,5 +28,4 @@
 
 ## Stats 📈
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobertholino&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=joaobertholino&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobertholino&show_icons=true&theme=transparent) ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=joaobertholino&theme=transparent)
