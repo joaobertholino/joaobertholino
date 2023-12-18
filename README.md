@@ -27,4 +27,4 @@
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
 
 ## Stats 📈
-![joaobertholino's](https://github-readme-stats.vercel.app/api?username=joaobertholino&show_icons=true&theme=transparent) ![joaobertholino's](https://github-readme-streak-stats.herokuapp.com/?user=joaobertholino&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=joaobertholino&show_icons=true&theme=transparent) ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=joaobertholino&theme=transparent)
