@@ -8,7 +8,10 @@
 
 ## Technical Skills 🚀
 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Git-A52A2A?style=for-the-badge&logo=git&logoColor=white" />
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=A52A2A&logo=Git&logoColor=FFFFFF&label=)
 
 ## Tools 🔧
 
@@ -23,9 +26,7 @@
 ![Google Bard](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Bard&color=886FBF&logo=Google+Bard&logoColor=FFFFFF&label=)
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
 
-<br>
+## Stats 📈
 
-<div style="width: 100%;height: 100%;margin: 0;padding:0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobertholino&show_icons=true&count_private=true&ring_color=E0004D&title_color=E0004D&icon_color=E0004D&rank-circle_color=E0004D&text_color=ffffff&bg_color=000000"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobertholino&layout=compact&title_color=E0004D&text_color=ffffff&bg_color=000000" />
-</div>
+![joaobertholino's Stats](https://github-readme-stats.vercel.app/api?username=joaobertholino&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+![joaobertholino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaobertholino&theme=outrun&hide_border=false)
