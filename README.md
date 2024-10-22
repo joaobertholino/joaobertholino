@@ -1,23 +1,24 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias com foco em Back-End Web.
-- 🎓 Estudante de Ciências da Computação no Centro Universitário FAM.
-- 🌱 Iniciante em contribuição Open-Source.
-- 👜 Aberto a oportunidades desafiadoras onde posso contribuir mutualmente.
+Sou estudante de Ciências da Computação, com foco em desenvolvimento de software na área de Backend utilizando Java.
+Estou atualmente no segundo semestre da graduação no Centro Universitário FAM e estou me especializando em todo o
+ecossistema Java por meio dos cursos da Oracle Academy oferecidos pelo SENAI, cursos online na Udemy e DIO, artigos
+técnicos e documentações das ferramentas. Sendo reconhecido pela minha proatividade, habilidade de aprendizado rápido,
+colaboração eficaz entre os colegas e comprometimento.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +28,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-
 
 **Ferramentas de desenvolvimento**
 
