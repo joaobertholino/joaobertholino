@@ -1,10 +1,6 @@
 ## Sobre mim
 
-Sou estudante de Ciências da Computação, com foco em desenvolvimento de software na área de Backend utilizando Java.
-Estou atualmente no terceiro semestre da graduação no Centro Universitário FAM e estou me especializando em todo o
-ecossistema Java por meio dos cursos da Oracle Academy oferecidos pelo SENAI, cursos online na Udemy e DIO, artigos
-técnicos e documentações das ferramentas. Sendo reconhecido pela minha proatividade, habilidade de aprendizado rápido,
-colaboração eficaz entre os colegas e comprometimento.
+Sou estudante de Ciências da Computação no Centro Universitário FAM finalizando atualmente o segundo semestre do curso e me especializando em desenvolvimento de software web na área de Backend utilizando Java. Sendo reconhecido, por colegas de classe e docentes, pela minha proatividade, habilidade de aprendizado rápido, colaboração eficaz entre os colegas, comprometimento e conhecimento técnico avançado.
 
 ## Minhas Skills
 
